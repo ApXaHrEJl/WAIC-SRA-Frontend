@@ -1,10 +1,15 @@
-# Screenplay Rating Analyzer (Frontend-сервис для проекта в рамках Хакатона Wink Ai Challenge 2025)
+# Screenplay Rating Analyzer (Frontend)
+Frontend-сервис для проекта в рамках Хакатона Wink Ai Challenge 2025
 
 Автор: Ситников Данила Алексеевич
 
 Время, потраченное на разработку: 10 дней
 
-Руководство для развёртывания Frontend-сервиса на Linux и Windows
+---
+
+# Руководство для развёртывания Frontend-сервиса на Linux и Windows
+
+---
 
 # Установка NodeJS 22.21
 
